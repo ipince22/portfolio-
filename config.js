@@ -8,7 +8,7 @@ export const PORT = 3005;
 /*
  * GitHub setting
  */
-export const GITHUB_USERNAME = 'aaron5670';
+export const GITHUB_USERNAME = 'ipince22';
 
 //How many GitHub repositories do you wanna display?
 export const TOTAL_GITHUB_PROJECTS = 8;
