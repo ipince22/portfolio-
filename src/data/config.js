@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'Aaron van den Berg - Portfolio website',
-  logo: 'https://aaronvandenberg.nl/favicon/favicon-512.png',
-  author: 'Aaron van den Berg',
-  url: 'https://aaronvandenberg.nl/',
-  legalName: 'Aaron van den Berg',
-  defaultDescription: 'I’m Aaron van den Berg and I’m a student Web Developer at the HAN in Arnhem. Skilled in Javascript (ES6+), React, Node.JS, PHP, SQL & NoSQL.',
+  defaultTitle: 'Daniel Ipince - Portfolio website',
+  logo: 'https://dipince.net/favicon/favicon-512.png',
+  author: 'Daniel Ipince',
+  url: 'https://dipince.net/',
+  legalName: 'Daniel Ipince',
+  defaultDescription: 'I’m Daniel Ipince and I’m a student Web Developer at Miami Dade College. Skilled in Javascript , React, C#, SQL & NoSQL.',
   socialLinks: {
     github: 'https://github.com/aaron5670',
     linkedin: 'https://www.linkedin.com/in/aaron-van-den-berg-a0406112a/',

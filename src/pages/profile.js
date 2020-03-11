@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 export default () => (
     <Layout>
         <ToastContainer>{receivedSocketMessages()}</ToastContainer>
-        <SEO title={'Aaron van den Berg - Profile'} />
+        <SEO title={'Daniel Ipince - Profile'} />
         <Router>
             <PrivateRoute path="profile" component={Profile} />
         </Router>
