@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
   "private": true,
-  "description": "Aaron's developers portfolio",
+  "description": "developers portfolio",
   "version": "1.1.0",
-  "author": "Aaron van den Berg <a.vdberg98@gmail.com>",
+  "author": "Daniel Ipince <ipince@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-solid-svg-icons": "^5.12.1",

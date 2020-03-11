@@ -7,19 +7,19 @@ module.exports = {
   defaultDescription: 'I’m Daniel Ipince and I’m a student Web Developer at Miami Dade College. Skilled in Javascript , React, C#, SQL & NoSQL.',
   socialLinks: {
     github: 'https://github.com/aaron5670',
-    linkedin: 'https://www.linkedin.com/in/aaron-van-den-berg-a0406112a/',
+    linkedin: 'https://www.linkedin.com/',
   },
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
-    facebook: 'aaron.vandenberg.50',
+    facebook: 'danny.ipince',
   },
   address: {
-    country: 'The Netherlands',
+    country: 'EEUU',
   },
   contact: {
-    email: 'a.vdberg98@gmail.com',
-    phone: 'phone number',
+    email: 'ipince22@gmail.com',
+    phone: '786-618-8667',
   },
   foundingDate: '2020',
   recaptcha_key: '6LcO-s8UAAAAAFr-MV9I0q-K_OMErqB6i3F6Kfp2',

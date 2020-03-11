@@ -17,7 +17,7 @@ export const Footer = () => (
             💖
           </span>{' '}
                     by{' '}
-                    <a href="https://aaronvandenberg.nl" rel="noopener noreferrer" target="_blank"
+                    <a href="https://dipince.net" rel="noopener noreferrer" target="_blank"
                        title={'Daniel Ipince'}>
             
             Daniel Ipince

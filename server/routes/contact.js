@@ -39,7 +39,7 @@ contact.post('/send', (req, res) => {
             ${message}
             <br/>
             <br/>
-            <i>Verzonden vanaf <a href="https://aaronvandenberg.nl/">aaronvandenberg.nl</a></i>
+            <i>Verzonden vanaf <a href="https://dipince.net/">dipince.net</a></i>
         `;
 
         sendEmail('Nieuwe email vanaf contactformulier 🔥', body);
