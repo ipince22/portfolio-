@@ -14,6 +14,7 @@ const IndexPage = () => {
         fetch(`https://api.github.com/users/${GITHUB_USERNAME}/repos?sort=updated`)
             .then(response => response.json())
             .then(resultData => {
+                console.log("get data from GitHub api",resultData);
                 if (resultData.message) throw new Error('Something went wrong');
                 //Sort on total stars
                 return resultData.sort((a, b) => b.stargazers_count - a.stargazers_count)
@@ -48,6 +49,7 @@ const IndexPage = () => {
                             <Content>
                                 <h4>{repo.name}</h4>
                                 <p>{repo.description}</p>
+                                
                             </Content>
                             <Stats>
                                 <div>

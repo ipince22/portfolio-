@@ -6,7 +6,7 @@ module.exports = {
   legalName: 'Daniel Ipince',
   defaultDescription: 'I’m Daniel Ipince and I’m a student Web Developer at Miami Dade College. Skilled in Javascript , React, C#, SQL & NoSQL.',
   socialLinks: {
-    github: 'https://github.com/aaron5670',
+    github: 'https://github.com/ipince22',
     linkedin: 'https://www.linkedin.com/',
   },
   themeColor: '#6b63ff',

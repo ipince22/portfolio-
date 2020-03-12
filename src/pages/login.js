@@ -15,7 +15,7 @@ export default () => {
     return (
         <Layout>
             <ToastContainer>{receivedSocketMessages()}</ToastContainer>
-            <SEO title={'Aaron van den Berg - Login'}/>
+            <SEO title={'Daniel Ipince - Login'}/>
             <OnlineUsers/>
             <Login/>
         </Layout>

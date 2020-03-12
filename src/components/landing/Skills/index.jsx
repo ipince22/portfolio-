@@ -8,7 +8,7 @@ export const Skills = () => (
   <Wrapper id="about">
     <SkillsWrapper as={Container}>
       <Thumbnail>
-        <img src={dev} alt="I’m Aaron and I’m a student Web Developer!" />
+        <img src={dev} alt="I’m Daniel and I’m a student Web Developer!" />
       </Thumbnail>
       <Details>
         <h1>Hi There!</h1>
